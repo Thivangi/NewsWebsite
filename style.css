@@ -1,0 +1,60 @@
+h2{
+    font-family: 'Bungee Shade', cursive;
+    color: #424b54;
+}
+h1{
+    font-size: 300%;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    color: #424b54;
+}
+h1 a {
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    color: #424b54;
+    text-decoration: none;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(251, 251, 251);
+}
+
+i{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    color: #9b6a6c;
+}
+
+input[type=text],input[type=password],textarea{
+    border-radius:4px;
+    border: 1px solid #9b6a6c;
+}
+
+input[type=submit]{
+    border-radius: 4px;
+    background-color: #e2b4bd;
+    border: 1px solid #9b6a6c;
+}
+
+.error{
+    color: #ff0008;
+    text-align: center;
+}
+.success{
+    color: #86999D;
+}
+
+.stories{
+    max-height: 150px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: 1px dotted #424b54;
+    border-radius: 4px;
+    padding: 10px;
+}
